@@ -1,0 +1,111 @@
+header{
+    text-align: center;
+    font-family: 'Lobster', cursive ;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 49px;
+    line-height: 61px;
+    background-color: #109e97;
+    color: white;
+    border-bottom: solid 2px black;
+}
+.sam{
+    display: flex;
+    border: 3px solid #FFD6D6 ;
+    width: 1103px;
+height: 454px;
+left: 368px;
+top: 232px;
+margin-left: 100px;
+
+}
+img{width: 300px;
+    height: 450px;
+    left: 370px;
+    top: 234px;
+    
+
+}
+.salam{
+    border: 2px solid #B0E9B0;
+    margin-left: 30px;
+    font-family: 'Robot';
+}
+.salam2{
+    border: #B0E9B0 2px solid;
+    margin-left: 30px;
+    font-family: 'Robot';
+    
+}
+button{
+    background: #109E97;
+border: 1px solid #109E97;
+border-radius: 4px;
+
+width: 149px;
+height: 48px;
+left: 752px;
+top: 634px;
+
+}
+.sagol{
+    
+    padding-left: 500px;
+}
+.hey{
+    border-top: solid 1px black;
+border-bottom: 1px solid black;
+width: 1100px;
+margin-left: 100px;
+}
+
+.heyy{
+    border-bottom:1px solid black;
+    width: 1100px;
+    margin-left: 100px;
+}
+
+.heyyy{
+    width: 1100px;
+    border-bottom: 1px solid black;
+    margin-left: 100px;
+}
+.heyyyy{
+    width: 1100px;
+    border-bottom:1px solid black;
+    margin-left: 100px;
+}
+.yyy{font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+text-transform: uppercase;
+}
+input{
+    border: solid  1px black
+}
+form{font-weight: 400;
+    
+    line-height: 10px;
+    text-align: center;
+    padding-left: 100px;
+
+}
+.aaa{
+    display: flex;
+}
+.bbb{
+    padding-left: 100px;
+}
+.b{
+    padding-left:100px;
+}
+.aaaa{
+    width: 1822px;
+height: 86px;
+left: 8px;
+top: 1839px;
+
+background: #109E97; 
+color: white;
+ padding-left: 500px;}
